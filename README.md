@@ -1,2 +1,2 @@
-# Training-project
-Учебные проекты
+# Portfolio
+Реализованные проекты
